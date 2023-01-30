@@ -3,7 +3,7 @@ from .models import Task
 from datetime import datetime
 from django.utils import timezone
 from django.contrib.auth.decorators import login_required
-import pytz
+
 
 # Create your views here.
 
